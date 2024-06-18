@@ -1,3 +1,5 @@
+Project Title: Vrinda Sales Report Analysis
+
 Analyze Vrinda's sales data using Excel to identify trends, visualize key metrics, and generate actionable insights.
 
  Data Preprocessing: Import and consolidate data.
